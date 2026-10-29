@@ -58,3 +58,12 @@ flowchart LR
 
     - Qualidade
 <img width="625" height="505" alt="image" src="https://github.com/user-attachments/assets/1076e4cc-98d3-46a8-827c-83862a00f398" />
+
+## Observações
+
+    - Procurei desenvolver o case da forma mais fiel possível aos conhecimentos que aplico no meu dia a dia de trabalho, e acredito que tanto minha linha de raciocinio, quanto de desenevolvimento de codigo do caso proposto
+    atenderam praticamente todos os itens, com excessão do item 7. Analisando o que foi pedido, só consegui chegar no resultado esperado com ajuda praticamente toda de IA (não subi nada disso no git), 
+    e, apesar de entender e compreender o código, e o porque ele é pedido, sinto que não saberia explicar a linha de raciocinio por trás do desenvolvimento desse item. 
+    Sendo assim, preferi resolver e desenvolver da forma que me senti mais confortável. Ressalto que compreendo as boas práticas que o item propõe, e não teria nenhum problema em me adaptar a elas, inclusive me sinto mais motivado a estudá-las agora. 
+    Por fim, agradeço a oportunidade e o tempo disponibilizado.
+
