@@ -1,0 +1,16 @@
+# Python (cache que aparece quando algum .py é importado)
+__pycache__/
+*.py[cod]
+
+# Databricks CLI
+.databricks/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Segredos - nunca versionar
+.env
+*.pem
