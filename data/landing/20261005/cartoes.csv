@@ -1,0 +1,2 @@
+id_cartao,id_conta,bandeira,tipo_cartao,status_cartao,data_emissao,data_atualizacao
+CRT0058,CTA0058,VISA,DEBITO,BLOQUEADO,2020-04-01,2026-10-04 12:00:00

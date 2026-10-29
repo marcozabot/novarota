@@ -1,0 +1,5 @@
+id_estorno,id_transacao,data_estorno,motivo_estorno
+EST0155,TRX007943,2026-10-04,Compra não reconhecida
+EST0156,TRX008074,2026-10-04,Produto não entregue
+EST0157,TRX009099,2026-10-04,Cancelamento da compra
+EST0163,TRX999997,2026-10-04,Cancelamento da compra

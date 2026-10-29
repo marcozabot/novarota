@@ -1,0 +1,4 @@
+id_estorno,id_transacao,data_estorno,motivo_estorno
+EST0158,TRX009328,2026-10-05,Cobrança em duplicidade
+EST0159,TRX011241,2026-10-05,Cobrança em duplicidade
+EST0160,TRX011243,2026-10-05,Compra não reconhecida
