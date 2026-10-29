@@ -1,0 +1,4 @@
+id_cliente,nome,cpf,data_nascimento,cidade,estado,data_atualizacao
+CLI0005,Lucas Gomes,78809320891,1964-03-15,Gramado,RS,2026-10-01 10:20:00
+CLI0020,Lucas Schmitt,10521854954,1960-09-25,Novo Hamburgo,RS,2026-10-01 09:12:00
+CLI0020,Lucas Schmitt,10521854954,1960-09-25,Canoas,RS,2026-10-01 16:40:00

@@ -1,0 +1,5 @@
+id_estorno,id_transacao,data_estorno,motivo_estorno
+EST0149,TRX012285,2026-10-02,Produto não entregue
+EST0150,TRX008374,2026-10-02,Compra não reconhecida
+EST0151,TRX011086,2026-10-02,Cobrança em duplicidade
+EST0162,TRX999998,2026-10-02,Compra não reconhecida

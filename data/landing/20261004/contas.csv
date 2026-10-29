@@ -1,0 +1,3 @@
+id_conta,id_cliente,tipo_conta,status_conta,data_abertura
+CTA0073,CLI0061,CORRENTE,ATIVA,2026-10-03
+CTA0040,CLI0035,PAGAMENTO,ENCERRADA,2015-01-30

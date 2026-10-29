@@ -1,0 +1,5 @@
+id_estorno,id_transacao,data_estorno,motivo_estorno
+EST0110,TRX014122,2026-10-01,Compra não reconhecida
+EST0146,TRX011022,2026-10-01,Cancelamento da compra
+EST0147,TRX010143,2026-10-01,Cobrança em duplicidade
+EST0148,TRX013610,2026-10-01,Compra não reconhecida
