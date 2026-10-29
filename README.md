@@ -46,3 +46,15 @@ flowchart LR
 - CPF validado só pelo formato (11 dígitos).
 - Nesta versão não tem testes automatizados, só as conferências dentro dos notebooks.
 - Próximos passos: criar tabela dimensão tipo SCD2 para criar indicadores de atividades de clientes com referências históricas.
+
+## Evidencias
+
+    - Diagrama do Job
+<img width="1485" height="335" alt="image" src="https://github.com/user-attachments/assets/3392641b-3d0e-486f-b0f7-6df7a5f17145" />
+<img width="1228" height="492" alt="image" src="https://github.com/user-attachments/assets/e10da802-5c0f-4d79-824e-78f169d4657e" />
+
+    - Cargas
+<img width="822" height="503" alt="image" src="https://github.com/user-attachments/assets/943d5612-3f51-45f6-82ac-846a88b0d51e" />
+
+    - Qualidade
+<img width="625" height="505" alt="image" src="https://github.com/user-attachments/assets/1076e4cc-98d3-46a8-827c-83862a00f398" />
